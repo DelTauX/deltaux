@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DelTauX
 - 👀 I’m interested in dualbooting my OP3t
 - 🌱 I’m currently learning partitioning and mounting a ramdisk while Android Boots unrooted.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on remoted Adminservice and cryptoscience
 - 📫 How to reach me ...
 
 <!---
